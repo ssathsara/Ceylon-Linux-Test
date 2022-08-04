@@ -1,0 +1,43 @@
+.form-group{
+    margin-bottom: 15px;
+}
+
+label{
+    text-align: right;
+    font-weight: bold;
+}
+
+.upper-right{
+    margin-top: 30px;
+}
+
+h4{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+select.form-control {
+    -webkit-appearance: menulist;
+}
+
+span{
+    content:" *";
+    color: red;
+}
+
+table{
+    margin-top: 50px;
+    width: 80%;
+}
+
+table, tr, td,th{
+    border:none;
+}
+
+table th {
+    font-weight: 600;
+    font-size: 1.1em;
+    text-align: center;
+    background: #b9c1c1;
+
+}
